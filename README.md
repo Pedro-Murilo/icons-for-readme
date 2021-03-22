@@ -2,7 +2,27 @@
 <p align="center">A repository for beautiful icons README!</p>
 
 ---
-<h3 align="center">Languages</h3>
+<div align="center">
+  <h3><strong>Contents</strong></h3> 
+  <a href="#-about">About</a> |
+  <a href="#-languages">Languages</a> |
+  <a href="#-frameworks">Frameworks</a> |
+  <a href="#-styles-&-frameworks">Styles & Frameworks</a> |
+  <a href="#-testing">Testing</a> |
+  <a href="#-design">Design</a> |
+  <a href="#-os">OS</a> |
+  <a href="#-tools-&-others">Tools & Others</a> |
+</div>
+
+
+---
+<h3>🗂 About</h3>
+<p>These icons are created on Figma and exported to SVG. If you want to put it in your README, you can do that! </p>
+<p>Just copy the part that is in the 'Markdown' table and put it where you want 💜!</p>
+
+
+---
+<h3 align="center">⌨ Languages</h3>
 
 | Name       | Icon                                                                                                                          | Markdown                                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -10,7 +30,7 @@
 | Typescript |  <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/typescript-icon.svg" alt="Typescript Icon" />   |  `<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/typescript-icon.svg" alt="Typescript Icon" /> `  |
 
 
-<h3 align="center">Frameworks</h3>
+<h3 align="center">🖥 Frameworks</h3>
 
 | Name       | Icon                                                                                                                          | Markdown                                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -19,7 +39,7 @@
 
 
 
-<h3 align="center">Styles / Frameworks</h3>
+<h3 align="center">💅 Styles & Frameworks</h3>
 
 | Name       | Icon                                                                                                                          | Markdown                                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,7 +51,7 @@
 
 
 
-<h3 align="center">Testing</h3>
+<h3 align="center">🔧 Testing</h3>
 
 | Name       | Icon                                                                                                                          | Markdown                                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,7 +60,7 @@
 
 
 
-<h3 align="center">Design</h3>
+<h3 align="center">🎀 Design</h3>
 
 | Name       | Icon                                                                                                                          | Markdown                                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -48,7 +68,7 @@
 
 
 
-<h3 align="center">OS</h3>
+<h3 align="center">🖥 OS</h3>
 
 | Name       | Icon                                                                                                                          | Markdown                                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -56,7 +76,7 @@
 
 
 
-<h3 align="center">Tools / Others</h3>
+<h3 align="center">⚙ Tools & Others</h3>
 
 | Name       | Icon                                                                                                                          | Markdown                                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
