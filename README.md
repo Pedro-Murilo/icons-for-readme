@@ -1,5 +1,5 @@
 <h3 align="center">🔵 Icons for README</h3>
-<p align="center">A repository for beautiful icons README!</p>
+<p align="center">A repository for beautiful icons to put in your README!</p>
 
 ---
 <div align="center">
