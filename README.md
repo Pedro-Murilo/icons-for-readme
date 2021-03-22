@@ -5,6 +5,7 @@
 <div align="center">
   <h3><strong>🔬 Contents</strong></h3> 
   <a href="#-about"> About </a> |
+  <a href="-guide"> Guide </a> |
   <a href="#-languages"> Languages </a> |
   <a href="#-frameworks"> Frameworks </a> |
   <a href="#-styles-or-frameworks"> Styles or Frameworks </a> |
@@ -17,9 +18,21 @@
 
 ---
 <h3>🗂 About</h3>
-<p>These icons are created on Figma and exported to SVG. If you want to put it in your README, you can do that! </p>
-<p>Just copy the part that is in the 'Markdown' table and put it where you want 💜!</p>
+<p>These icons are created on Figma and exported to SVG. If you want to put it in your README, you can do that! </br>
+Just copy the part that is in the 'Markdown' table and put it where you want 💜! </p>
 
+---
+<h3>🗺 Guide</h3>
+<p>A little example: </p>
+
+> `<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />`
+
+The `width` is for change the size of your Icon, you can change this value to what you want!
+
+then, the `js-icon.svg` part is the Icon, but that icon is in that repository, and if you want to a custom icon, you need to create this or you can contribute
+to this repository too!
+
+> Note: I will continue to add more icons in this repository!
 
 ---
 <h3 align="center">⌨ Languages</h3>
