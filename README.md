@@ -1,17 +1,17 @@
-<h3 align="center">Icons for README</h3>
+<h3 align="center">🔵 Icons for README</h3>
 <p align="center">A repository for beautiful icons README!</p>
 
 ---
 <div align="center">
-  <h3><strong>Contents</strong></h3> 
+  <h3><strong>🔬 Contents</strong></h3> 
   <a href="#-about">About</a> |
   <a href="#-languages">Languages</a> |
   <a href="#-frameworks">Frameworks</a> |
-  <a href="#-styles-&-frameworks">Styles & Frameworks</a> |
+  <a href="#-styles-or-frameworks">Styles or Frameworks</a> |
   <a href="#-testing">Testing</a> |
   <a href="#-design">Design</a> |
   <a href="#-os">OS</a> |
-  <a href="#-tools-&-others">Tools & Others</a> |
+  <a href="#-tools-or-others">Tools or Others</a> |
 </div>
 
 
@@ -39,7 +39,7 @@
 
 
 
-<h3 align="center">💅 Styles & Frameworks</h3>
+<h3 align="center">💅 Styles or Frameworks</h3>
 
 | Name       | Icon                                                                                                                          | Markdown                                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -76,7 +76,7 @@
 
 
 
-<h3 align="center">⚙ Tools & Others</h3>
+<h3 align="center">⚙ Tools or Others</h3>
 
 | Name       | Icon                                                                                                                          | Markdown                                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
