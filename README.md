@@ -5,7 +5,7 @@
 <div align="center">
   <h3><strong>🔬 Contents</strong></h3> 
   <a href="#-about"> About </a> |
-  <a href="-guide"> Guide </a> |
+  <a href="#-guide"> Guide </a> |
   <a href="#-languages"> Languages </a> |
   <a href="#-frameworks"> Frameworks </a> |
   <a href="#-styles-or-frameworks"> Styles or Frameworks </a> |
