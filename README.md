@@ -86,7 +86,7 @@ to this repository too!
 | Name       | Icon                                                                                                                          | Markdown                                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | Manjaro Linux | <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/manjaro-icon.svg" alt="Manjaro Icon" /> | `<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/manjaro-icon.svg" alt="Manjaro Icon" />` |
-
+| Ubuntu | <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/ubuntu-icon.svg" alt="Ubuntu Icon" /> | `<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/ubuntu-icon.svg" alt="Ubuntu Icon" />` |
 
 
 <h3 align="center">⚙ Tools or Others</h3>
